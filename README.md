@@ -5,9 +5,8 @@ A static recreation of the [Jewelix](https://jewelix.framer.website/) jewellery 
 ## Folder structure
 
 ```
-jewelix/
-├── html/
-│   └── index.html
+jewelix-website/
+├── index.html
 ├── css/
 │   └── style.css
 ├── js/
@@ -17,7 +16,7 @@ jewelix/
 
 ## How to open
 
-Open `html/index.html` in your browser (double-click, or use Live Server in VS Code / Cursor).
+Open `index.html` in your browser (double-click, or use Live Server in VS Code / Cursor).
 
 Images load from external CDNs (Framer + Unsplash), so you need an internet connection.
 
